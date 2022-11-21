@@ -1,0 +1,28 @@
+#navbar-color {
+    background-color: rgb(165, 162, 162);
+}
+
+.about-me {
+    padding-top: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(229, 232, 233);
+}
+
+.projects {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: rgb(229, 232, 233);
+    padding: 25px;
+}
+
+.profilePhoto {
+    border-radius: 50%;
+}
+
+.shadowbox {
+    box-shadow: 6px 5px grey;
+}
